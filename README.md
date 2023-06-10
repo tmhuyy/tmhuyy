@@ -2,9 +2,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31hsnfjwxfj2gvdi4id6ue4oezsy&cover_image=true&theme=novatorem&bar_color=74a7fe&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tranminhhuyy/) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100047967413515) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/huy_m_tran/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tranminhhuyy/) <img src="https://komarev.com/ghpvc/?username=tmhuyy&color=green">
 
 <p>My name is Huy Tran and I am studying Computer Science at IU. My goal is to become a software engineer.</p>
 
